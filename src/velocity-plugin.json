@@ -1,0 +1,8 @@
+{
+  "id": "toriumps",
+  "name": "ToriumPlayersSum",
+  "version": "1.0.0",
+  "main": "ru.thorgathis.velocity.toriumplayerssum.Main",
+  "authors": ["Thorgathis"],
+  "description": "Online is a sum of all servers"
+}
